@@ -1,4 +1,4 @@
-in:Depth,in:Different design for 1st layer,out:SURFACE AREA,out:Percentage of Members Failing,out:Strain Energy (stiffness),out:Deflection,out:Resulting force of gravity,img
+in:Depth,in:Height,in:Orientation,in:WWR,out:Strain Energy (stiffness),out:Deflection,out:Resulting force of gravity,img
 0,0,36305.912346,0,1.741946,1.041171,135274.501932,Differentdesignforthirdlayer0_Differentdesignfor1stlayer0.png
 1,0,28657.391433,0,1.054522,2.18699,119163.834991,Differentdesignforthirdlayer1_Differentdesignfor1stlayer0.png
 2,0,34538.378613,0.014493,2426.241371,114.621549,153481.125065,Differentdesignforthirdlayer2_Differentdesignfor1stlayer0.png
